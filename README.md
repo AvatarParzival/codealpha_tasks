@@ -104,7 +104,7 @@ The authors and contributors are not liable for misuse, damage, or legal issues 
 
 | Packets View | Statistics Dashboard |
 |--------------|----------------------|
-| ![Packets Tab](screenshots/main.png) | ![Stats Tab](screenshots/Stats.png) |
+| ![Packets Tab](screenshots/main.png) | ![Stats Tab](screenshots/stats.png) |
 
 | HTTP Analysis | TLS Analysis |
 |---------------|-------------|

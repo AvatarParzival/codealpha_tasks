@@ -116,7 +116,7 @@ The authors and contributors are not liable for misuse, damage, or legal issues 
 
 1. **Clone this repository or download as zip**
    ```bash
-   git clone https://github.com/AvatarParzival/parzival.git
+   git clone https://github.com/AvatarParzival/codealpha_tasks.git
    cd parzival
    ```
 
